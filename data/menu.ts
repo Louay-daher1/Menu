@@ -37,7 +37,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Fresh hummus with olive oil",
         price: 4.5,
         tag: "popular",
-        image: "/menu/images/hommoshab.jfif",
+        image: "/menu/images/hommoshab.webp",
         emoji: "🫙",
       },
       {
@@ -69,7 +69,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Blend of hummus and fava beans with tahini and lemon",
         price: 6.0,
         tag: "chef",
-        image: "/menu/images/foulwhomos.jfif",
+        image: "/menu/images/foulwhomos.webp",
         emoji: "🫘",
       },
     ],
@@ -183,7 +183,7 @@ export const menuCategories: MenuCategory[] = [
         price: 2.0,
         tag: "popular",
         emoji: "🫖",
-        image: "/menu/images/tea.jfif",
+        image: "/menu/images/tea.webp",
       },
       {
         id: "d2",
@@ -192,7 +192,7 @@ export const menuCategories: MenuCategory[] = [
         descAr: "قهوة عربية أصيلة بالهيل",
         descEn: "Authentic Arabic coffee with cardamom",
         price: 2.5,
-        image: "/menu/images/arabiccoffee.jfif",
+        image: "/menu/images/arabiccoffee.webp",
         emoji: "☕",
       },
       {
@@ -223,7 +223,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Espresso",
         price: 2.5,
         emoji: "☕",
-        image: "/menu/images/espresso.jfif",
+        image: "/menu/images/espresso.webp",
       },
     ],
   },
@@ -263,7 +263,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Lemonade",
         price: 2.5,
         emoji: "🍋",
-        image: "/menu/images/lemonade.jfif",
+        image: "/menu/images/lemonade.webp",
       },
       {
         id: "d4",
