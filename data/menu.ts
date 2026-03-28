@@ -90,7 +90,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Thyme and olive oil flatbread from the oven",
         price: 3.0,
         tag: "popular",
-        image: "/menu/images/zaatarMANAKISH.webp",
+        image: "/menu/images/zaatarMANAKISH.jpg",
         emoji: "🌿",
       },
       {
