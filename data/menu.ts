@@ -142,7 +142,7 @@ export const menuCategories: MenuCategory[] = [
         descEn: "Creamy labneh with olive oil and thyme",
         price: 3.5,
         tag: "popular",
-        image: "/menu/images/labneh.jpg",
+        image: "/menu/images/labneh.webp",
         emoji: "🥛",
       },
       {
